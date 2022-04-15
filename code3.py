@@ -1,1 +1,1 @@
-aaa
+print('code3.py')
