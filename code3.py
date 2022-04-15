@@ -1,2 +1,1 @@
-print(1)
-x = 10
+print('code3.py')
