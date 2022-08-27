@@ -5,3 +5,5 @@ print(3)
 
 x = 20
 x = 10
+print(type(x))
+
